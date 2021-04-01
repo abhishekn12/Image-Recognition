@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'dais'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c78c7a9386ee46a8934ac0c211dfaaef }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2664fb9c87fc42068565757d210570b6 }}
